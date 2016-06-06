@@ -1,0 +1,5 @@
+
+El lugar suele ser: /var/lib/mysql pero para asegurarnos, debemos mirar el fichero my.cnf. Este fichero se encuentra en:
+
+    Ubuntu, Debian y derivados: /etc/mysql/my.cnf
+    Red Hat, Fedora y derivados: /etc/my.cnf
